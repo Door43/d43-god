@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[god:home|Door43 (god)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-god|d43-god repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-god/archive/master.zip|d43-god.zip]]
+
+**Recent Changes**
+{{changes>ns = god}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/god|Ethnologue data]]
+
